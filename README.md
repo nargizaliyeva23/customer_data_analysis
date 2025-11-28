@@ -82,7 +82,7 @@ Performed key analysis queries on the `customer_behavior` table, including:
 
 -Payment & shipping preferences
 
-![Dashboard](C:\Users\Asus\Downloads\dashboard_image.png)
+![Dashboard](dashboard_image.png)
 
 
 
